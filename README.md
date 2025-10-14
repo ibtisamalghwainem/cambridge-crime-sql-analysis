@@ -1,7 +1,5 @@
-# cambridge-crime-sql-analysis
-SQL-based crime data analysis in Cambridge (2009–2024) with narrative reporting and structured queries.
-
 # Cambridge Crime SQL Analysis
+SQL-based crime data analysis in Cambridge (2009–2024) with narrative reporting and structured queries.
 
 ## Overview
 This project investigates crime data in Cambridge (2009–2024) using structured SQL queries.  
